@@ -67,11 +67,7 @@ OTHERS --Motivo da Cirurgia da aorta
 WEIGHTOFPROC --Quantidade de procedimentos na Cirurgia
 INTRAHOSPITALDEATH --Morte intra hospitalar
 D30DEATH --Morte em 30 dias
-************ aa
-************ aa2
 redo ---RE-operação (sim ou não)
-************ mi
-************ delaimi
 RENALIMPAIRMENT --Insuficiência renal
 ua --Aguda
 PULMONARYHYPERTENSION --hipertensão de arteria pulmonar
@@ -79,8 +75,13 @@ lv1 -- Nivel da hipertensão de arteria pulmonar
 lv2 -- Nivel da hipertensão de arteria pulmonar
 SURGERYTHORACICAORTA --Cirurgia aorto toracica
 PROCEDURE --Se fez o procedimento de Cirurgia aorto toracica
-DIABETESONINSULIN --Depednente de insulina
+DIABETESONINSULIN --Dependente de insulina
+RECENTMI_A --Infarto do miocárdio recente
+LVEFISOTOPIC --Fração de injeção isotópica
+mi --Se a operação é por Infarto do miocárdio
+delaimi --Pode ter a ver com Infarto do miocárdio (mas não temos certeza)
 
-SURG --Não fazemos nem do que checar
-***********RECENTMI_A --A Larissa vai checar
-********** LVEFISOTOPIC --A Larissa vai checar
+************--Não fazemos nem do que checar
+SURG 
+aa
+aa2
