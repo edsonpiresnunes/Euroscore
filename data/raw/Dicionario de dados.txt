@@ -79,9 +79,9 @@ DIABETESONINSULIN --Dependente de insulina
 RECENTMI_A --Infarto do miocárdio recente
 LVEFISOTOPIC --Fração de injeção isotópica
 mi --Se a operação é por Infarto do miocárdio
+SURG -- Se o paciente já passou por algum procedimento (sim ou não)
 delaimi --Pode ter a ver com Infarto do miocárdio (mas não temos certeza)
 
 ************--Não fazemos nem do que checar
-SURG 
 aa
 aa2
