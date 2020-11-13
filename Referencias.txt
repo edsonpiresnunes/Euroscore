@@ -21,3 +21,5 @@ https://github.com/pycaret/pycaret/blob/master/tutorials/Regression%20Tutorial%2
 https://www.analyticsvidhya.com/blog/2019/11/shapley-value-machine-learning-interpretability-game-theory/?utm_source=blog&utm_medium=pycaret-machine-learning-model-seconds
 
 https://towardsdatascience.com/machine-learning-made-easier-with-pycaret-907e7124efe6
+
+https://towardsdatascience.com/shap-how-to-interpret-machine-learning-models-with-python-2323f5af4be9
